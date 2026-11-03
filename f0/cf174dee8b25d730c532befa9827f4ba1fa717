@@ -1,0 +1,16 @@
+cmd/clusterctl/client/cluster/ownergraph.go
+  h_fa09f1a4dd9e15 112
+cmd/clusterctl/client/cluster/ownergraph_test.go
+  h_fa09f1a4dd9e15 1-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f0cf174dee8b25d730c532befa9827f4ba1fa717",
+  "prompts": {},
+  "humans": {
+    "h_fa09f1a4dd9e15": {
+      "author": "Sreesanth R <shreesh.exe22@gmail.com>"
+    }
+  }
+}
